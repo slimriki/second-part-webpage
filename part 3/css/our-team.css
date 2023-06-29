@@ -1,0 +1,26 @@
+a:visited {
+    color: white;
+  }
+  a:hover {
+    color: orange;
+  }
+  .butonat:hover {
+    color: white;
+    background-color: lightslategray;
+  }
+  .icons:link {
+    color: white;
+  }
+  .icons:visited {
+    color: white;
+  }
+  .icons:hover {
+    color: orange;
+  }
+  .team:link{
+    color: white;
+  }
+  .team:visited{
+    color: white;
+  }
+  
